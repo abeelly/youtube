@@ -1,0 +1,6 @@
+@import url(https://bootswatch.com/5/lux/bootstrap.min.css);
+
+.logo {
+    width: 150px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+  }

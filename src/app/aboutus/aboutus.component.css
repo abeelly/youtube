@@ -1,0 +1,38 @@
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .search-container {
+    text-align: center;
+  }
+
+  p.one {
+    word-spacing: 10px;
+  }
+
+  h6 {
+    line-height: 8.0;
+    font-weight: 900;
+  }
+
+  
+  .title {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+
+  .logo {
+    width: 300px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  h1 {
+    line-height: 3.0;
+    font-weight: 900;
+  }
+  
+  
+  
